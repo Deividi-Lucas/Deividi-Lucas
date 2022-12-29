@@ -1,10 +1,11 @@
-  <h1>- 👋 Hi, I’m @Deividi-Lucas </h1>
-- 👀 I’m interested in Front-end <br>
-- 🌱 I’m currently learning JavaScript<br>
-- 💞️ I’m looking to collaborate on React <br>
-- 📫 How to reach me Instagram: dl.santos.16<br>
+# Olá, Meu nome é Deividi Lucas
 
-<!---
-Deividi-Lucas/Deividi-Lucas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Estou estudando Front-end (HTML | CSS | JavaScript)
+<img align="center" alt="deividi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="deividi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="deividi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+
+ 📫 How to reach me Instagram: dl.santos.16<br>
+
