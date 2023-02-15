@@ -19,6 +19,9 @@
 <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img height="30" width="40" alt="git" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></p>
 
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividi-lucas&layout=compact&langs_count=7&theme=dracula" align="center"  /> 
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividi-lucas&layout=compact&langs_count=7&theme=dracula" align="center"  /> </div>
+<div align="center">
 
-| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=deividi-lucas&show_icons=true&hide_border=true&count_private=true&theme=radical) |
+![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=deividi-lucas&show_icons=true&hide_border=true&count_private=true&theme=radical)</div>
+
+![snake gif](https://github.com/deividi-lucas/deividi-lucas/blob/output/github-contribution-grid-snake.svg)
