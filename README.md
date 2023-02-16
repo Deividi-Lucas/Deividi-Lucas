@@ -18,10 +18,15 @@
   <img align="center" alt="deividi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img height="30" width="40" alt="git" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></p>
+<div align="left"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividi-lucas&layout=compact&langs_count=8&theme=tokyonight&hide_border=true">
+ </div>
 
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividi-lucas&layout=compact&langs_count=7&theme=dracula" align="center"  /> </div>
-<div align="center">
+<div align="left">
 
-![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=deividi-lucas&show_icons=true&hide_border=true&count_private=true&theme=radical)</div>
+<img src="https://github-readme-stats.vercel.app/api?username=deividi-lucas&show_icons=True&hide_border=true&count_private=true&theme=tokyonight"    height="188em">
+
+</div>
+
 
 ![snake gif](https://github.com/deividi-lucas/deividi-lucas/blob/output/github-contribution-grid-snake.svg)
+
