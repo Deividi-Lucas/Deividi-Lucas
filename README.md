@@ -17,9 +17,12 @@
 <img align="center" alt="deividi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="deividi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img height="30" width="40" alt="git" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></p>
+<img height="30" width="40" alt="git" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img height="30" width="40" alt="Linux" align="center" src="https://camo.githubusercontent.com/5827f82f2c2d9c5bad33de64e073659d1a57032b31009b8127189be6876916d4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667"></p>
+
 <div align="left"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividi-lucas&layout=compact&langs_count=8&theme=tokyonight&hide_border=true">
  </div>
+
 
 <div align="left">
 
