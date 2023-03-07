@@ -1,8 +1,8 @@
 # Hi,<img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30" alt="gif" /> I'm  <a href="https://deividilucas.netlify.app/">Deividi Lucas</a> 😁
 
-* I'm currently Working on Brazilian army forces <img alt="foto" height= "15" width="20" src= "https://camo.githubusercontent.com/fc47c0db92526f1f90dc2d7a9c392645c580fb4418e4f82b912f020ad0b16ff5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f636f756e7472792d666c61672d656d6f6a692d6a736f6e40322e302e302f646973742f696d616765732f42522e737667">
+* I am currently working in the area of ​​network infrastructure <img alt="foto" height= "15" width="20" src= "https://camo.githubusercontent.com/fc47c0db92526f1f90dc2d7a9c392645c580fb4418e4f82b912f020ad0b16ff5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f636f756e7472792d666c61672d656d6f6a692d6a736f6e40322e302e302f646973742f696d616765732f42522e737667">
 
-* 🌱 A front-end from Cuiabá-MT, Brazil
+* 🌱 I'm from Cuiabá-MT, Brazil
 
 * 📫 How to reach me:
 <a href = "mailto:deividilucas21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="20"></a>
