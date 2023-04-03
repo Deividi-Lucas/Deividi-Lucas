@@ -32,11 +32,10 @@
 ### System
 
 <p><img height="30" width="40" alt="Linux" align="center" src="https://camo.githubusercontent.com/5827f82f2c2d9c5bad33de64e073659d1a57032b31009b8127189be6876916d4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667"><img height= "30" width="40" alt="Windows" align="center" src="https://camo.githubusercontent.com/f39746359dabca11ba3828d33e660f90460f71fe379cde669a2c912b9d51349f/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3233322f3233323431312e706e67"></p>
+  <div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividi-lucas&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"><img src="https://github-readme-stats.vercel.app/api?username=deividi-lucas&show_icons=True&hide_border=true&count_private=true&theme=tokyonight"    height="180em">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deividi-lucas&layout=compact&langs_count=8&theme=tokyonight&hide_border=true">
-
-<img src="https://github-readme-stats.vercel.app/api?username=deividi-lucas&show_icons=True&hide_border=true&count_private=true&theme=tokyonight"    height="188em">
-
+  </div>
 </div>
 
 ![snake gif](https://github.com/deividi-lucas/deividi-lucas/blob/output/github-contribution-grid-snake.svg)
