@@ -40,7 +40,7 @@ src="./assets/styled-components-1.svg"
 
 <p>
 <img height="30" width="40" alt="git" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img height="30" width="40" alt="Vscode" align="center" src="./assets/vscode.svg" />
+<img height="30" width="40" alt="Vscode" align="center" src="./assets/vsCode.svg" />
 <img height="30" width="40" alt="Github" align="center" src="./assets/github.svg" />
 </p>
 
