@@ -10,6 +10,8 @@
 
 <!-- <a href = "mailto:deividilucas21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="20"></a> -->
 
+E-mail: deividilucas21@gmail.com
+<br>
 <a href="https://www.instagram.com/dl.santos.16/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" height="20"></a>
 <a href="https://www.linkedin.com/in/deividi-lucas-a60612254/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="20"></a>
 
@@ -40,7 +42,7 @@ src="./assets/styled-components-1.svg"
 
 <p>
 <img height="30" width="40" alt="git" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img height="30" width="40" alt="Vscode" align="center" src="./assets/vscode.svg" />
+<img height="30" width="40" alt="Vscode" align="center" src="./assets/vsCode.svg" />
 <img height="30" width="40" alt="Github" align="center" src="./assets/github.svg" />
 </p>
 
