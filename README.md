@@ -36,6 +36,7 @@ E-mail: deividilucas21@gmail.com
 <img alt="Styled-Components" height='30' width='40' align="center" 
 src="./assets/styled-components-1.svg"
 />
+<img atl="Flask" height='30' width='40' align='center' src='./assets/flask.svg'/>
 </p>
 
 ### Used Tools
