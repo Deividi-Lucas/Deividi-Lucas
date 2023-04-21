@@ -25,6 +25,9 @@ E-mail: deividilucas21@gmail.com
 <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" height="30" width ="40" alt="sass"src="https://camo.githubusercontent.com/26901b819fb10ef4e2c652aa40e24775247664d84a7597bebb66898a24dddedd/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f736173732f736173732d6f726967696e616c2e737667">
 <img align="center" alt="Axios" height="30" width="40" src="https://avatars.githubusercontent.com/u/32372333?s=400&v=4" />
+<img alt="Styled-Components" height='30' width='40' align="center" 
+src="./assets/styled-components-1.svg"
+/>
 
 </p>
 
@@ -33,9 +36,6 @@ E-mail: deividilucas21@gmail.com
 <p>
 <img alt="typescript" height='30' width='40' align="center" src="./assets/Typescript_logo_2020.svg">
 <img alt="react-router-dom" height='30' width='40' align="center" src="./assets/react-router-mark-color.svg">
-<img alt="Styled-Components" height='30' width='40' align="center" 
-src="./assets/styled-components-1.svg"
-/>
 <img atl="Flask" height='30' width='40' align='center' src='./assets/flask.svg'/>
 </p>
 
