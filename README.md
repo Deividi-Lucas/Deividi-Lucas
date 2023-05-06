@@ -37,6 +37,7 @@ src="./assets/styled-components-1.svg"
 <img alt="typescript" height='30' width='40' align="center" src="./assets/Typescript_logo_2020.svg">
 <img alt="react-router-dom" height='30' width='40' align="center" src="./assets/react-router-mark-color.svg">
 <img atl="Flask" height='30' width='40' align='center' src='./assets/flask.svg'/>
+<img alt="MongoDB" height='30' width='60' align='center' src='./assets/mongodb.svg'/>
 </p>
 
 ### Used Tools
